@@ -1,1 +1,3 @@
-# mtn
+# maven-project
+
+Simple Maven Project
